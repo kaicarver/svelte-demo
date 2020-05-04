@@ -1,3 +1,9 @@
+# What this is
+
+This is an attempt to port to Svelte the React "make a Tic-tac-toe game" tutorial.
+
+It's partly done, in that a first version works, but I ran into a problem or a misunderstanding with Svelte when I tried to implement history.
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
